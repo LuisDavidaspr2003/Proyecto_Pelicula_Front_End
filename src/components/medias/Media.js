@@ -112,7 +112,7 @@ const clearforce = () => {
 
 
 }
-  //-------------------------------------------------------
+  //-----------------------------------------------------
   const borrarMediasPorId = (e) => {
     const id = e.target.id
     setloader(true)
